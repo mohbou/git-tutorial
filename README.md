@@ -1,7 +1,7 @@
 # git-tutorial
 Git tutorial
 
-# [![Flow Chart](https://github.com/mohbou/git-tutorial/edit/master/git.PNG)](#features)
+![Flow Chart](https://github.com/mohbou/git-tutorial/blob/master/git.jpg)
 
 follow tutorial on : https://www.youtube.com/watch?v=j1oFazXrzN4
 
