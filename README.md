@@ -5,6 +5,8 @@ Git tutorial
 
 follow tutorial on : https://www.youtube.com/watch?v=j1oFazXrzN4
 
+[![solarized dualmode](https://github.com/mohbou/git-tutorial/edit/master/git.PNG)](#features)
+
 git tutorial
 
 - create a directory and open a git in folder created
