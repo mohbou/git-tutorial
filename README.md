@@ -1,6 +1,7 @@
 # git-tutorial
 Git tutorial
 
+![Flow chart](https://github.com/mohbou/git-tutorial/edit/master/git.PNG "Optional Title")
 
 follow tutorial on : https://www.youtube.com/watch?v=j1oFazXrzN4
 
